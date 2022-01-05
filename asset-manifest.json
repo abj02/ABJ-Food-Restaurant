@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ABJ-Food-Restaurant/static/css/main.e6c13ad2.css",
+    "main.js": "/ABJ-Food-Restaurant/static/js/main.3397a78d.js",
+    "static/js/787.f9424495.chunk.js": "/ABJ-Food-Restaurant/static/js/787.f9424495.chunk.js",
+    "index.html": "/ABJ-Food-Restaurant/index.html",
+    "main.e6c13ad2.css.map": "/ABJ-Food-Restaurant/static/css/main.e6c13ad2.css.map",
+    "main.3397a78d.js.map": "/ABJ-Food-Restaurant/static/js/main.3397a78d.js.map",
+    "787.f9424495.chunk.js.map": "/ABJ-Food-Restaurant/static/js/787.f9424495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3397a78d.js"
+  ]
+}
